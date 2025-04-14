@@ -4,4 +4,7 @@ This project aims to develop a product review system powered by NLP models that 
 
 
 
+
+
 All the data that GitHub didn't accept for upload will be placed in a Google Drive link and attached below
+https://drive.google.com/drive/folders/17RtVTQZt5Ue6qE3ksQiTNKmMadBCxcT-?usp=sharing
